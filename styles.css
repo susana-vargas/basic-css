@@ -7,6 +7,12 @@ body {
     background-image:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
 }
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
 .established {
     font-style: italic;
 }
@@ -18,7 +24,11 @@ body {
     padding: 20px;
     max-width: 500px;
 }
+hr {
+    height: 3px;
+    background-color:brown
 
+}
 h1,
 h2 {
     font-family: Impact, serif;
